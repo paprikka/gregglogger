@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+env/
+
+.DS_Store
+~
+
+
+# pyenv
+.python-version
